@@ -2,7 +2,7 @@
 
 [Magento 2 Sale Category](https://www.ulmod.com/sale-category-for-magento-2.html) is a Magento 2 extension that allows you to auto-generate a list of products with specials prices under a specific sale category of your store.
 
-With Magento 2 Sale Category you can manually and automatically generate all products with specials prices and from catalog price rules under a specific category page;
+With Magento 2 Sale Category you can manually or automatically generate all products with specials prices and products from catalog price rules under a specific category page;
 
 <a href="https://www.ulmod.com/sale-category-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
